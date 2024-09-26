@@ -1,0 +1,12 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'org.gradle.caching:gradle-enterprise-plugin:3.2.0'
+    }
+}
+
+plugins {
+    id 'org.gradle.enterprise'
+}
