@@ -7,9 +7,7 @@
 <img src="https://raw.githubusercontent.com/slovnicki/beamer/master/resources/logo.png">
 </p>
 
-<p align="center">
-<a href="https://beamer.dev/">beamer.dev</a>
-</p>
+
 
 <p align="center">
 <a href="https://pub.dev/packages/beamer"><img src="https://img.shields.io/pub/v/beamer.svg" alt="pub"></a>
